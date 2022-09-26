@@ -1,1 +1,2 @@
-#!/bin/bash -rxw hello
+#!/bin/bash 
+-rxw hello
