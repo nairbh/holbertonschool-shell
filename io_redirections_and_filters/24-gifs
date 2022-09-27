@@ -1,2 +1,2 @@
 #!/bin/bash
- find . -type f -name "*.gif" -printf "%f"
+find . -type f -name "*.gif" | od -c f | *aaa *bbb
