@@ -1,2 +1,2 @@
 #!/bin/bash
- echo "hello user" chmod -v +x su
+ echo "hello user" su
