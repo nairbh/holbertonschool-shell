@@ -1,2 +1,2 @@
 #!/bin/bash
-PATH="/action:$PATH"|printf "%s\n" $PATH
+PATH="/action:$PATH"| "tail /action"
