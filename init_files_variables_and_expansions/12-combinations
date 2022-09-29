@@ -1,2 +1,2 @@
 #!/bin/bash
-eval echo $(printf "%s" '{{a..z},{*oo},}'{,,,,} )
+echo $(printf "%s" '{{a..z},{*oo},}')
