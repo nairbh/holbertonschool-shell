@@ -1,2 +1,2 @@
 #!/bin/bash
- echo $(($a**z)*oo))
+eval echo $(printf "%s" '{{a..z},{*oo},}'{,,,,} )
