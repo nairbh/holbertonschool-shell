@@ -1,2 +1,2 @@
 #!/bin/bash
-echo cat $(($BREATH**LOVE))
+export cat $(($BREATH**LOVE))
