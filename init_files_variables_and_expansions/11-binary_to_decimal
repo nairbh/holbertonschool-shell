@@ -1,2 +1,2 @@
 #!/bin/bash
- echo printf $(($BINARY**10))
+echo $(($BINARY**10))
