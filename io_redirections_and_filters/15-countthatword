@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo sysctl -a | grep -w /etc/passwd
+grep bin -w /etc/passwd
