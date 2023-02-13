@@ -1,3 +1,2 @@
 #!/bin/bash
 sudo sysctl -a | grep -w /etc/passwd
-
