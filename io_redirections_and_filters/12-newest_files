@@ -1,2 +1,2 @@
 #!/bin/bash
-find ./* -type d | sort tail -10
+ls -t
