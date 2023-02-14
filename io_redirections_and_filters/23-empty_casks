@@ -1,2 +1,2 @@
 #!/bin/bash
-find ./ -type d -empty | sort ls -dils
+find ./ -type d -empty ls -dils
